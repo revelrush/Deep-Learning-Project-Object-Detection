@@ -22,6 +22,7 @@ All you need to do is to run the test.py file, it should open a simple video fee
 ![image](https://github.com/revelrush/Deep-Learning-Project-Object-Detection/assets/84671795/d3f4f828-d22d-4c0b-8063-cfb1ad6ea305)
 
 Here is a video demo that demonstrates the model in action.
+
 https://github.com/revelrush/Deep-Learning-Project-Object-Detection/assets/84671795/93ad5d47-018b-44ee-a8d7-c7316793072d
 
 
