@@ -18,7 +18,7 @@ To make sure that none of the required modules are missing, the run the command 
 Running the train.py file will download the dataset and run the training algorithm from scratch. Once finished, it will produce a file named model_weights.pth that can be used for inference, all you have to is rename the checkpoint file used in the demo script. 
 
 ### Demo Script
-All you need to do is to run the test.py file, it should open a simple video feed that shows which drink the model detects like this:
+All you need to do is to run the demo.py file, it should open a simple video feed that shows which drink the model detects like this:
 ![image](https://github.com/revelrush/Deep-Learning-Project-Object-Detection/assets/84671795/d3f4f828-d22d-4c0b-8063-cfb1ad6ea305)
 
 Here is a video demo that demonstrates the model in action.
